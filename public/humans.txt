@@ -1,0 +1,33 @@
+
+This file explains the designer, technology,
+and graphic assets behind this portfolio website.
+
+_______________________________________________________________________________
+
+DESIGNER 
+
+Jonathan Vincentius
+Web Developer & UI/UX Designer
+
+Design tools:
+Figma
+Photoshop
+Blender
+
+https://github.com/jvcent
+
+_______________________________________________________________________________
+
+TECHNOLOGY 
+
+React
+Next.js
+Three.js
+Framer Motion
+
+_______________________________________________________________________________
+
+FONT
+
+Gotham
+Hiragino Kaku Gothic
