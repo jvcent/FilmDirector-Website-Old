@@ -21,18 +21,18 @@ const ProfileText = ({ visible, titleId }) => (
       <DecoderText text="Hello!" start={visible} delay={500} />
     </Heading>
     <Text className={styles.description} data-visible={visible} size="l" as="p">
-      I’m Aashish, an Film student currently studying at London's{' '}
-      <Link href="https://www.metfilmschool.ac.uk/">MetFilm School</Link> for a Bachelors
-      of Fine Arts in Practical Filmmaking. As an aspiring film director, my passion lies
-      in the art of storytelling through the medium of cinema. My goal is to bring
-      thought-provoking and emotionally resonant stories to life on the big screen through
-      impactful and memorable narratives.
+      My name is Aashish, an Film student currently studying at the
+      <Link href="https://www.metfilmschool.ac.uk/">MetFilm School</Link> in London for a
+      Bachelors of Fine Arts in Practical Filmmaking. As an aspiring film director, my
+      passion lies in the art of storytelling through the medium of cinema. My goal is to
+      bring thought-provoking and emotionally resonant stories to life on the big screen
+      through impactful and memorable narratives.
     </Text>
     <Text className={styles.description} data-visible={visible} size="l" as="p">
       My skills and technological proficiency encompass a blend of creative vision and
       technical aptitude. I am well-versed with the following software and equipment:
       Adobe Premiere Pro, Davinci resolve , Avid Media Composer, Sony 7 iii, Alexa Arri
-      Mxf. I’m always interested to work on new projects, so feel free to drop me a line.
+      Mxf. I am always interested to work on new projects, so feel free to drop me a line.
     </Text>
   </Fragment>
 );
